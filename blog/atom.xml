@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rtorres1978.github.io/GUIA/blog</id>
-    <title>My Site Blog</title>
+    <title>Guia de Programacion &amp; Telecomunicaciones Blog</title>
     <updated>2023-12-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rtorres1978.github.io/GUIA/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Guia de Programacion &amp; Telecomunicaciones Blog</subtitle>
     <icon>https://rtorres1978.github.io/GUIA/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[javascript]]></title>
